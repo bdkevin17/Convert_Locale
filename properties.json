@@ -1,0 +1,90 @@
+{
+  "msiNumberofChannels": {
+    "it_IT": "3000",
+    "ru_RU": "3000",
+    "en_US": "3000",
+    "en_CA": "3000",
+    "fr_CA": "3 000",
+    "de_DE": "3000",
+    "fr_FR": "3 000",
+    "es_ES": "3000",
+    "pl_PL": "3000"
+  },
+  "msiMountingOptions": {
+    "it_IT": "Radio doppia*,Frontalino di comando doppio*",
+    "ru_RU": "\u0414\u0432\u043e\u0439\u043d\u043e\u0439 \u0440\u0430\u0434\u0438\u043e\u043c\u043e\u0434\u0443\u043b\u044c*,\u0414\u0432\u043e\u0439\u043d\u043e\u0439 \u0431\u043b\u043e\u043a \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f*",
+    "en_US": "Dual Radio*,Dual Control Head*",
+    "en_CA": "Dual Radio*,Dual Control Head*",
+    "fr_CA": "Dual Radio,Deux t\u00c3\u00aates de commande",
+    "de_DE": "Dual Radio*,Doppeltes Bedienteil*",
+    "fr_FR": "Dual Radio,Deux t\u00c3\u00aates de commande",
+    "es_ES": "Radio doble*,Cabezal de control doble*",
+    "pl_PL": "Dwa modu\u0142y radiowe*,Podw\u00f3jna g\u0142owica steruj\u0105ca*"
+  },
+  "msiPower": {
+    "it_IT": "1-30W,1-35W,50W,40W,45W,40W,25W",
+    "ru_RU": "1\u201330 \u0412\u0422.,1-35W,50W,40W,45W,40W,25 \u0412\u0442",
+    "en_US": "1-30W,1-35W,50W,40W,45W,40W,25W",
+    "en_CA": "1-30W,1-35W,50W,40W,45W,40W,25W",
+    "fr_CA": "1-30W,1-35W,50W,40W,45W,40W,25W",
+    "de_DE": "1-30 W,1-35W,50W,40W,45W,40W,25 W",
+    "fr_FR": "1-30W,1-35W,50W,40W,45W,40W,25W",
+    "es_ES": "1-30W,1-35W,50W,40W,45W,40W,25 W",
+    "pl_PL": "1 W,1-35W,50W,40W,45W,40W,25 W"
+  },
+  "msiEncryptionType": {
+    "it_IT": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "ru_RU": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "en_US": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "en_CA": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "fr_CA": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "de_DE": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "fr_FR": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "es_ES": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*",
+    "pl_PL": "ADP,AES 256*,DES*,DES-XL*,DVP-XL*"
+  },
+  "msiBandSplit": {
+    "it_IT": "Tutte le bande,700 MHz,800 MHz,VHF,UHFR1,450-485 MHz,485-512 MHz,512-520 MHz",
+    "ru_RU": "\u0412\u0441\u0435 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u044b,700 \u041c\u0413\u0446,800 \u041c\u0413\u0446,\u041e\u0412\u0427,\u0423\u0412\u0427\u04201,450-485 \u041c\u0413\u0446,485-512 \u041c\u0413\u0446,512-520 \u041c\u0413\u0446",
+    "en_US": "All Band,700 Mhz,800 Mhz,VHF,UHFR1,450-485 Mhz,485-512 MHz,512-520 MHz",
+    "en_CA": "All Band,700 Mhz,800 Mhz,VHF,UHFR1,450-485 Mhz,485-512 MHz,512-520 MHz",
+    "fr_CA": "Toutes bandes,700 MHz,800 MHz,VHF,UHFR1,450-485 MHz,485-512 MHz,512-520 MHz",
+    "de_DE": "All Band,700 Mhz,800 Mhz,VHF,UHFR1,450-485 Mhz,485-512 MHz,512-520 MHz",
+    "fr_FR": "Toutes bandes,700 MHz,800 MHz,VHF,UHFR1,450-485 MHz,485-512 MHz,512-520 MHz",
+    "es_ES": "Todas las bandas,700 MHz,800 MHz,VHF,UHFR1,450-485 MHz,485-512 MHz,512-520 MHz",
+    "pl_PL": "Wszystkie pasma,700 MHz,800 MHz,VHF,UHFR1,450-485 MHz,485-512 MHz,512-520 MHz"
+  },
+  "msiControlHeadCompatibility": {
+    "it_IT": "FRONTALINO DI COMANDO 02\nFRONTALINO DI COMANDO 03\nFRONTALINO DI COMANDO 05\nFRONTALINO DI COMANDO 07\nFRONTALINO DI COMANDO E5",
+    "ru_RU": "\u0411\u041b\u041e\u041a \u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u042f 02\n\u0411\u041b\u041e\u041a \u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u042f 02\n\u0411\u041b\u041e\u041a \u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u042f 02\n\u0411\u041b\u041e\u041a \u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u042f 02\n\u0411\u041b\u041e\u041a \u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u042f",
+    "en_US": "02 CONTROL HEAD\n03 CONTROL HEAD\n05 CONTROL HEAD\n07 CONTROL HEAD\nE5 CONTROL HEAD",
+    "en_CA": "02 CONTROL HEAD\n03 CONTROL HEAD\n05 CONTROL HEAD\n07 CONTROL HEAD\nE5 CONTROL HEAD",
+    "fr_CA": "02 T\u00caTE DE COMMANDE\r\n02 T\u00caTE DE COMMANDE\r\n02 T\u00caTE DE COMMANDE\r\n02 T\u00caTE DE COMMANDE\r\nT\u00caTE DE COMMANDE \u00c0 DISTANCE",
+    "de_DE": "02 BEDIENTEIL\n02 BEDIENTEIL\n02 BEDIENTEIL\n02 BEDIENTEIL\nBEDIENTEIL",
+    "fr_FR": "02 T\u00caTE DE COMMANDE\r\n02 T\u00caTE DE COMMANDE\r\n02 T\u00caTE DE COMMANDE\r\n02 T\u00caTE DE COMMANDE\r\nT\u00caTE DE COMMANDE \u00c0 DISTANCE",
+    "es_ES": "02 CABEZAL DE CONTROL\n02 CABEZAL DE CONTROL\n02 CABEZAL DE CONTROL\n02 CABEZAL DE CONTROL\nCABEZAL DE CONTROL",
+    "pl_PL": "02  G\u0141OWICA STERUJ\u0104CA\n02  G\u0141OWICA STERUJ\u0104CA\n02  G\u0141OWICA STERUJ\u0104CA\n02  G\u0141OWICA STERUJ\u0104CA\nPANEL FRONTOWY"
+  },
+  "msiSystemCompatability": {
+    "it_IT": "Fase 1 P25 (FDMA) convenzionale,Trunking P25 fase 1 (FDMA),Trunking P25 fase 2 (TDMA)",
+    "ru_RU": "\u041a\u043e\u043d\u0432\u0435\u043d\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 P25, Phase 1 (FDMA),\u0422\u0440\u0430\u043d\u043a\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 P25, Phase 1 (FDMA),\u0422\u0440\u0430\u043d\u043a\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 P25, Phase 2 (TDMA)",
+    "en_US": "P25 Phase 1 (FDMA) Conventional,P25 Phase 1 (FDMA) Trunking,P25 Phase 2 (TDMA) Trunking",
+    "en_CA": "P25 Phase 1 (FDMA) Conventional,P25 Phase 1 (FDMA) Trunking,P25 Phase 2 (TDMA) Trunking",
+    "fr_CA": "P25 Phase 1 (FDMA) conventionnel,Ressources partag\u00e9es P25, phase 1 (FDMA),Ressources partag\u00e9es P25, phase 2 (TDMA)",
+    "de_DE": "P25 Phase 1 (FDMA) Betriebsfunk,P25 Phase 1 (FDMA) B\u00fcndelfunk,P25 Phase 2 (TDMA) B\u00fcndelfunk",
+    "fr_FR": "P25 Phase 1 (FDMA) conventionnel,Ressources partag\u00e9es P25, phase 1 (FDMA),Ressources partag\u00e9es P25, phase 2 (TDMA)",
+    "es_ES": "P25 de fase 1 (FDMA) convencional,P25 de fase 1 troncalizada (FDMA),P25 de fase 2 troncalizada (TDMA)",
+    "pl_PL": "P25 Faza 1 (FDMA) konwencjonalne,P25 Faza trunkingu 1 (FDMA),P25 Faza trunkingu 2 (TDMA)"
+  },
+  "msiType": {
+    "it_IT": "MOBILE",
+    "ru_RU": "\u041c\u041e\u0411\u0418\u041b\u042c\u041d.",
+    "en_US": "MOBILE",
+    "en_CA": "MOBILE",
+    "fr_CA": "MOBILE",
+    "de_DE": "MOBIL",
+    "fr_FR": "MOBILE",
+    "es_ES": "SOLUCIONES",
+    "pl_PL": "MOBILE"
+  }
+}
